@@ -1,0 +1,13 @@
+img {
+  width: 81px;
+  border-radius: 50px;
+  float: left;
+  margin-right: 10px;
+}
+.handle {
+  font-weight: bold;
+}
+em{
+    color: blue;
+    font-family: sans-serif;
+}
