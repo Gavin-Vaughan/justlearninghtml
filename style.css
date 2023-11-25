@@ -7,7 +7,8 @@ img {
 .handle {
   font-weight: bold;
 }
-em{
+a{
     color: blue;
     font-family: sans-serif;
+    font-style: italic;
 }
