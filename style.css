@@ -1,0 +1,21 @@
+img {
+  width: 81px;
+  border-radius: 50px;
+  float: left;
+  margin-right: 10px;
+}
+.handle {
+  font-weight: bold;
+}
+a{
+    color: blue;
+    font-family: sans-serif;
+    font-style: italic;
+}
+h1{
+    color: black;
+    font-family: Arial;
+}
+p{
+    font-family: 'Arial';
+}
